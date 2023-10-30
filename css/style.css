@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    color: #f7f7f7; /* Texto branco com um pouco mais de saturação */
+    color: #f0f0f0; /* Branco quase cinza */
 }
 
 .container {
