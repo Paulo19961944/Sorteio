@@ -11,12 +11,12 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    color: #f0f0f0; /* Branco quase cinza */
+    color: #1c1c1c; 
 }
 
 .container {
     text-align: center;
-    background-color: #323232; /* Fundo do container ligeiramente mais claro */
+    background-color: #f0f0f0; /* Fundo do container ligeiramente mais claro */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
@@ -44,4 +44,5 @@ input {
     border: 1px solid #ccc;
     border-radius: 4px;
     margin-top: 10px;
+    background-color: #1c1c1c;
 }
