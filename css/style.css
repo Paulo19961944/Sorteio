@@ -6,19 +6,17 @@
 
 body {
     background-color: #1c1c1c; /* Fundo escuro */
-    color: #fff; /* Texto branco */
     font-family: Arial, sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    color: #f7f7f7; /* Texto branco com um pouco mais de saturação */
 }
-
 
 .container {
     text-align: center;
-    background-color: #f8f8f8;
-    color: #00CC00;
+    background-color: #323232; /* Fundo do container ligeiramente mais claro */
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
